@@ -55,6 +55,13 @@
 git clone <your-repo-url>
 
 
+## Screenshots 
+![Homepage Screenshot](src/assets/Screenshot_home.png)
+[Tasks Screenshot](src/assets/Screenshot_tasks.png)
+[About Screenshot](src/assets/Screenshot_about.png)
+[Contact & Footer Screenshot](src/assets/Screenshot_contact.png)
+
+
 ## Future Enhancements
 
 * Add Node.js backend to serve posts from a database
