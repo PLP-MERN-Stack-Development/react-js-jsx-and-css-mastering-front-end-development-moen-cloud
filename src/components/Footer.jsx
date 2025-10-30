@@ -1,12 +1,12 @@
-import React from 'react'
+const Footer = () => {
+  return (
+    <footer className="bg-gray-200 dark:bg-gray-900 text-gray-700 dark:text-gray-300 p-4 mt-10">
+      <div className="max-w-6xl mx-auto text-center">
+        <p>&copy; {new Date().getFullYear()} HealthSphere. All rights reserved.</p>
+        <p>Contact us: info@healthsphere.com</p>
+      </div>
+    </footer>
+  );
+};
 
-
-export default function Footer() {
-return (
-<footer className="mt-12 border-t dark:border-gray-700 bg-white dark:bg-gray-900">
-<div className="container mx-auto px-4 py-6 text-center text-sm text-gray-600 dark:text-gray-400">
-© {new Date().getFullYear()} Health Blog — Built with React and Tailwind
-</div>
-</footer>
-)
-}
+export default Footer;
