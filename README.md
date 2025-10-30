@@ -48,18 +48,19 @@
 - npm (comes with Node.js)  
 - Modern web browser (Chrome, Firefox, Edge, etc.)  
 
-### Installation
-
-1. Clone the repository:  
-```bash
-git clone <your-repo-url>
-
 
 ## Screenshots 
 ![Homepage Screenshot](src/assets/Screenshot_home.png)
 [Tasks Screenshot](src/assets/Screenshot_tasks.png)
 [About Screenshot](src/assets/Screenshot_about.png)
 [Contact & Footer Screenshot](src/assets/Screenshot_contact.png)
+
+
+## Live Deployment
+
+You can view the live version of this project on Vercel:
+
+🔗 [react-ui-mastering on Vercel](https://vercel.com/moens-projects-2c4353c9/react-ui-mastering/5M2AnPivk9rnkevSUuY6iUWD68H6)
 
 
 ## Future Enhancements
