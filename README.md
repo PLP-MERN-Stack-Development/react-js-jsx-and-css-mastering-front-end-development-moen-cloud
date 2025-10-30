@@ -60,7 +60,7 @@
 
 You can view the live version of this project on Vercel:
 
-🔗 [react-ui-mastering on Vercel](https://vercel.com/moens-projects-2c4353c9/react-ui-mastering/5M2AnPivk9rnkevSUuY6iUWD68H6)
+🔗 [react-ui-mastering on Vercel] https://react-ui-mastering.vercel.app/
 
 
 ## Future Enhancements
